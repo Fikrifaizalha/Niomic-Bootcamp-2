@@ -1,0 +1,11 @@
+.judul {
+  text-align: center;
+  padding: 10px;
+  letter-spacing: 2px;
+}
+button {
+  color: tomato;
+}
+.register {
+  font-size: medium;
+}

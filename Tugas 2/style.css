@@ -1,0 +1,23 @@
+.p1 {
+  text-align: justify;
+}
+#p3 {
+  text-decoration: underline;
+}
+* {
+  color: white;
+  background-color: green;
+}
+img {
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin: 10px;
+}
+#p3,
+.p4 {
+  text-align: center;
+}
+.p5 {
+  text-decoration: line-through;
+}

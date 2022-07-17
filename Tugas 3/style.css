@@ -1,0 +1,19 @@
+.p1 {
+  background-color: orange;
+  border-style: ridge;
+}
+.p2 {
+  background-color: blue;
+  color: aliceblue;
+  border-style: ridge;
+}
+.p3 {
+  font-size: 25px;
+  border-style: groove;
+}
+.p4 {
+  background-color: slategray;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 25px;
+  border-style: ridge;
+}
